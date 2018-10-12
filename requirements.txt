@@ -1,0 +1,3 @@
+pypiwin32
+git+https://code.manuelcortez.net/manuelcortez/libloader
+git+https://code.manuelcortez.net/manuelcortez/platform_utils

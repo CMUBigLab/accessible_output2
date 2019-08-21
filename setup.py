@@ -17,7 +17,7 @@ elif _system == 'Darwin':
 
 __doc__ = 'Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions.',
 
-with io.open('readme.md', encoding='UTF8') as readme:
+with io.open('README.md', encoding='UTF8') as readme:
 	long_description = readme.read()
 
 setup(
